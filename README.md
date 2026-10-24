@@ -49,5 +49,5 @@ Playwright generates an HTML report that helps review test results and failures.
 https://www.saucedemo.com/
 
 ## Author
-Automation QA Practice Project
+Fatima Majeed
 
